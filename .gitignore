@@ -7,6 +7,8 @@
 
 .env
 
+/next.config.js
+
 # testing
 /coverage
 
@@ -26,8 +28,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
-
-next.config.js
 
 # local env files
 .env*.local
