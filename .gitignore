@@ -27,6 +27,8 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
+next.config.js
+
 # local env files
 .env*.local
 
